@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Henry",
+    "age": 18,
+    "address": {
+        "street": "Jordan Prairie",
+        "city": "Banksport",
+        "state": "Louisiana",
+        "zip": "10300"
+    },
+    "contact": {
+        "phone": "573.759.8963x65532",
+        "servicePhone": "800963522"
+    },
+    "birthday": "2007-27-04",
+    "ip": "58.63.223.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Hold also student little knowledge determine home. Camera study position she ask know. Suddenly last that artist big stop fear.",
+        "bio": "Believe successful learn create some and against. Visit theory with cut production. Space attack quality leave each least call."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
