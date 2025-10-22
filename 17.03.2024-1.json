@@ -1,0 +1,25 @@
+{
+    "name": "Andres Berry",
+    "age": 67,
+    "address": {
+        "street": "Butler Plain",
+        "city": "Dominguezberg",
+        "state": "Virginia",
+        "zip": "02472"
+    },
+    "contact": {
+        "phone": "656.961.4562",
+        "servicePhone": "800253905"
+    },
+    "birthday": "1958-01-05",
+    "ip": "177.157.157.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Low company sister still raise. Card after sing develop technology voice management. Party today community around outside machine medical special. Far almost cultural team late surface though.",
+        "bio": "Answer piece bar usually analysis. Manage ask would prove speak cultural or again. Them the life behind far.\nServe senior choice mission entire. Woman end education mouth easy always."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
