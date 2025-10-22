@@ -1,0 +1,25 @@
+{
+    "name": "Angela Cuevas",
+    "age": 58,
+    "address": {
+        "street": "Barbara Pines",
+        "city": "Kyleburgh",
+        "state": "Massachusetts",
+        "zip": "92831"
+    },
+    "contact": {
+        "phone": "692-241-1282",
+        "servicePhone": "800080768"
+    },
+    "birthday": "1967-16-08",
+    "ip": "165.165.2.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Form wish staff likely total whole voice. From then example. Better I rise receive year environment.\nTime whose hit. Certain likely rock forward of buy service.",
+        "bio": "Rock treat suggest how behind where. After might itself party main. Forward service if business hotel job cut TV."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
