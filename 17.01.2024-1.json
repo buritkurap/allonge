@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Walsh",
+    "age": 1,
+    "address": {
+        "street": "Richards Cliffs",
+        "city": "East Jacob",
+        "state": "Montana",
+        "zip": "36380"
+    },
+    "contact": {
+        "phone": "(591)448-5634",
+        "servicePhone": "800969929"
+    },
+    "birthday": "2024-06-09",
+    "ip": "3.4.103.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Involve may back increase TV become step. Ready different right let many.\nFinally else reflect economy since part. Second social worker outside smile. Box must such wish however few drug.",
+        "bio": "To five radio hear training. Medical body lawyer least cause cut time heart. Building house bag your.\nHerself speak another agree."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
