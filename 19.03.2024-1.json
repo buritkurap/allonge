@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Richards",
+    "age": 42,
+    "address": {
+        "street": "Hall Mountains",
+        "city": "New Jeremy",
+        "state": "Connecticut",
+        "zip": "14471"
+    },
+    "contact": {
+        "phone": "616-303-5127",
+        "servicePhone": "800373262"
+    },
+    "birthday": "1983-21-01",
+    "ip": "60.252.169.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Series once capital. Field threat life range page compare whatever. Body develop especially area early soon pass. Able gas pick low record turn with challenge.",
+        "bio": "Collection us believe.\nArticle hope when you full chair project toward. Occur politics because record nature same use."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
