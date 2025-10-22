@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Richard",
+    "age": 26,
+    "address": {
+        "street": "Samantha Shores",
+        "city": "Milesburgh",
+        "state": "Oklahoma",
+        "zip": "79282"
+    },
+    "contact": {
+        "phone": "5857242014",
+        "servicePhone": "800847011"
+    },
+    "birthday": "1999-25-09",
+    "ip": "170.173.230.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Very learn information still sell surface letter. About source page with account. Agreement area administration cost impact space.",
+        "bio": "National could consider offer not often. Heavy cold election fish. Most fish explain south school represent."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
