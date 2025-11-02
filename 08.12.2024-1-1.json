@@ -1,0 +1,25 @@
+{
+    "name": "Tracy Soto",
+    "age": 108,
+    "address": {
+        "street": "Murphy Dale",
+        "city": "Stevensonburgh",
+        "state": "Michigan",
+        "zip": "39559"
+    },
+    "contact": {
+        "phone": "6814156978",
+        "servicePhone": "800383800"
+    },
+    "birthday": "1917-22-03",
+    "ip": "221.46.76.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Common laugh gas impact sea city quality. High fill let accept. End more sing south I remain.\nMember protect old while. Time necessary agree dinner green employee though at.",
+        "bio": "Hotel take involve.\nKind network rise sense measure style affect.\nDrop human sea crime threat international. Drug television capital evidence western."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
